@@ -1,0 +1,24 @@
+KIRAN1001
+KIRAN1001_lec_0    23
+KIRAN1001_lec_1    18
+KIRAN1001_lec_2    30
+KIRAN1001_lab_0    33
+CS203
+CS203_lec_0    22
+CS203_lec_1    17
+CS203_lec_2    2
+EE201
+EE201_lec_0    24
+EE201_lec_1    19
+EE201_lec_2    4
+HS201
+HS201_lec_0    25
+HS201_lec_1    20
+HS201_lec_2    5
+CS211
+CS211_lab_0    32
+CS213
+CS213_lec_0    26
+CS213_tut_0    21
+CS213_tut_1    16
+CS213_tut_2    1

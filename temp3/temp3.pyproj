@@ -2,15 +2,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>72ba4360-9e11-4807-9ead-ea4db46fd138</ProjectGuid>
+    <ProjectGuid>83c153e0-f8a4-4971-b54f-3521fafdd2e1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>z3_final.py</StartupFile>
+    <StartupFile>temp3.py</StartupFile>
     <SearchPath>..\..\..\..\..\..\Z3\z3-master\build\python</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>z3 final</Name>
-    <RootNamespace>z3 final</RootNamespace>
-    <IsWindowsApplication>False</IsWindowsApplication>
+    <Name>temp3</Name>
+    <RootNamespace>temp3</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,10 +20,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="modify.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="z3_final.py" />
+    <Compile Include="temp3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
