@@ -1,0 +1,10 @@
+AS the program has many features but it also lacks many aswell. As of now this cannot be used for practical puposes.
+
+This is the list of all the features that this program lacks and are yet to be done -
+
+	1.By default if it finds any professor/lab taking two/more courses or branches, it makes sure that all the classes taken by this sir are not coinciding.
+	2.If you want any special lectures/courses to be common for some professors/ labs, it cannot be done.
+	3.The slot details that are given in slots.xlsx file are just for reference perpose.
+	4.These slot details are hardcoded in the source code, so they cannot be changed in any way.
+	5.By default the program assumes that the number of labs available for each is only one.
+	6.If you want to make the timetable for two or more labs, it cannot be done.

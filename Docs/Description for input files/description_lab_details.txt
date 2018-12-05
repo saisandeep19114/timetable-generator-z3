@@ -1,0 +1,25 @@
+description and format of the "lab_details.txt" file.
+
+"lab_details.txt" is of a distinct format.
+
+1st line contains labels for different distinct labs, we can add some more distinct labs with new labels (other than the existing labels).
+
+Essential content starts from the 3rd line.
+
+It starts with a line stating "START" and ends at a line with "END".
+
+Any lab course and it's lab label  goes inbetween the "START" and "END" with the following format ::
+
+For a course "COURSE&&&" with it's lab label as "LAB" goes in the file inbetween the "START" and the "END" as following term:
+
+//
+COURSE&&&
+LAB
+//
+
+
+NOTE::  "//" are must be included as given in the format.
+
+        Following one course term another shouldn't start with "//" as the earlier ending "//" provides starting "//" for the current term but  ends with "//".
+
+

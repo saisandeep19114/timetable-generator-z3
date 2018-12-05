@@ -1,0 +1,5 @@
+description and the format of the "professor_quantities.txt" file.
+
+"professor_quantities.txt" reperesents the names of all the professors(every course tutor).
+
+Every line in the textfile is the name of the each professor.

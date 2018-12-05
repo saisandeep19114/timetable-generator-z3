@@ -1,0 +1,16 @@
+description and format of the "lab_quantities.txt" file.
+
+"lab_quantities" contains number of lab rooms for a given lab type(ex:: COMP,ELEC).
+
+To overcome the execution delay of the source code,we limited the lab rooms of every lab type to only 1.
+
+For every lab type the text goes as following ::
+
+for a lab "LAB" it would be like
+
+LAB
+1
+
+i.e 1st line with the lab label "LAB".
+
+    2nd line with the quantity "1" (in this project it is limited to 1).

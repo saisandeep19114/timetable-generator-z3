@@ -1,0 +1,9 @@
+*Note that all the input file names and the source code are in the same working directory*
+
+Execute the python source file as python 3
+
+*Note that z3 library should be installed and added to the environmantal variables for this execution to work*
+
+Also note that you are not supposed to change any of the input file names.
+
+After execution you will get the the out files (timetables) in both daywise as well as slot wise for each brach in .txt format.

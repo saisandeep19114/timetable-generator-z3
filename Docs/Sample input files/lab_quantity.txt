@@ -1,0 +1,8 @@
+COMP
+2
+ELEC
+1
+MECH
+4
+CHEM
+1

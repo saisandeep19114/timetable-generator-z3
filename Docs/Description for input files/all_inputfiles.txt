@@ -1,0 +1,19 @@
+The following input files need to be provided for the execution of the source code.
+
+"inputfiles" directory contains all these input files.
+
+
+1.  input.txt
+2.  lab_details.txt
+3.  lab_quantity.txt
+4.  professor_details.txt
+5.  professor_quantity.txt
+6.  sem1_cs.txt
+7.  sem1_ee.txt
+8.  sem1_me.txt
+9.  sem2_cs.txt
+10. sem2_ee.txt
+11. sem2_me.txt
+12. sem3_cs.txt
+13. sem3_ee.txt
+14. sem3_me.txt

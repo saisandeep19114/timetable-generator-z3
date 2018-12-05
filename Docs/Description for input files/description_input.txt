@@ -1,0 +1,11 @@
+description and format of the "input.txt" file.
+
+It  represents the names of the files from the "inputfiles" directory.
+
+$department={cs,ee,me}
+
+$n={1,2,3}
+
+Every line in the file  "input.txt"  is  in the format "sem$n_$department.txt".
+
+->  for now, $n is from 1 to 3 , however we could add some more by  exending $n and $department.

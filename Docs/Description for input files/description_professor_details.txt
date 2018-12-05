@@ -1,0 +1,23 @@
+description and format of the "professor_details.txt" file
+
+"professor_details.txt" is of a distinct format which basically provides the name of the professor for every distinct course(all courses).
+
+Professor name may repeat as one may teach two or more courses.
+
+
+It starts with a line stating "START" and ends at a line with "END"
+
+Every course and it's tutor  goes inbetween the "START" and "END" with the following format ::
+
+for a course "COURSE&&&" with it's tutor as "ABCD" goes in the file inbetween the "START" and the "END" as following term:
+
+//
+COURSE&&&
+ABCD
+//
+
+
+
+NOTE:: "//" are must be included as given in the format
+
+        Following one course term another shouldn't start with "//" as the earlier ending "//" provides starting "//" for the current term but ends with "//" 

@@ -1,0 +1,9 @@
+sem1_cs.txt
+sem1_ee.txt
+sem1_me.txt
+sem3_cs.txt
+sem3_ee.txt
+sem3_me.txt
+sem5_cs.txt
+sem5_ee.txt
+sem5_me.txt

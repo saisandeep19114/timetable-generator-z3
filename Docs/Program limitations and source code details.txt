@@ -1,0 +1,34 @@
+***************************************************************Timetable solver using z3****************************************************************************
+
+!! THINGS THAT CAN BE DONE WITH THIS PROGRAM(features availble)
+
+	1.Make timetable with details given in input folder
+	2.You can make the timetable for multiple branches/courses/professors/labs at a time without any collisions
+	3.You can get the output printed in both day wise and also slot wise
+	4.All the slots that are used are provided in the slots.xlsx(excel file).
+
+
+!! THINGS THAT YOU CANNOT DO WITH THIS PROGRAM
+
+	1.By default if it finds any professor/lab taking two/more courses or branches, it makes sure that all the classes taken by this sir are not coinciding.
+	2.If you want any special lectures/courses to be common for some professors/ labs, it cannot be done.
+	3.The slot details that are given in slots.xlsx file are just for reference perpose.
+	4.These slot details are hardcoded in the source code, so they cannot be changed in any way.
+	5.By default the program assumes that the number of labs available for each is only one.
+	6.If you want to make the timetable for two or more labs, it cannot be done.
+	
+
+
+
+
+
+!! BASIC CONSTRANTS THAT ARE COMMON FOR ALL COURSES
+
+	1.Afternoon sessions are only confined ot labs i.e., there cannot be any lecture or tutorial in afternoon session.
+	2.Lab can also be in morning session, but if there is a lab in morning session then there cannot be any lecture/tutorial of any course  in the morning session of that day.
+	3.In each day, for each course, there can be only 1 lecture (or) 1 tutorial but not both.
+	4.All the sessions(lectures/tutorials/labs) can only be in unique slots.
+
+
+
+!! The sample input files that are present are made of the actual details of the courses for various branches in IITDH !!

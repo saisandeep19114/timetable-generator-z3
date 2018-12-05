@@ -1,0 +1,24 @@
+description and format of the every file in the format "sem$n_$department.txt" file.
+
+As described in the "description_input.txt" $n={1,2,3} and $department={cs,me,ee} and can be extended.
+
+Every "sem$n_$department.txt" file represents the respective courses of the sem "$n" "$department".
+
+
+It starts with a line stating "START" and ends at a line with "END".
+
+Any course and it's LTP structure(ex: "1 2 3")  goes inbetween the "START" and "END" with the following format ::
+
+For a course "COURSE&&&" with it's LTP structure as "@ # %" goes in the file inbetween the "START" and the "END" as following term:
+
+//
+COURSE&&&
+@ # %
+//
+
+
+NOTE::  "//" are must be included as given in the format.
+
+        Following one course term another shouldn't start with "//" as the earlier ending "//" provides starting "//" for the current term but  ends with "//" . 
+
+
